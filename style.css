@@ -14,14 +14,14 @@ input {
   border: 1px solid white;
   border-radius: 4px;
   padding: 4px;
-  box-shadow: 0 0 2px 1px white;
+  /* box-shadow: 0 0 2px 1px white; */
   
   -webkit-transition: box-shadow 0.3s ease-in-out;
 }
 
 input:focus {
   outline: none;
-  box-shadow: 0 0 5px 2px #7DBEF1;
+  /* box-shadow: 0 0 5px 2px #7DBEF1; */
 }
 
 a {
